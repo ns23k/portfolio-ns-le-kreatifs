@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "src": "images/Sport_SEN_Egypte_Teranga.jpg",
+      "title": "Sénégal vs Égypte — Les Lions de la Teranga",
+      "catLabel": "Affiche match CAN"
+    },
+    {
+      "src": "images/Sport_Maroc_Cameroune_1.jpg",
+      "title": "Maroc vs Cameroun — Quart de finale",
+      "catLabel": "Affiche match CAN"
+    },
+    {
+      "src": "images/Sport_Maroc_Cameroune_2.jpg",
+      "title": "Maroc vs Cameroun — Variante",
+      "catLabel": "Affiche match CAN"
+    },
+    {
+      "src": "images/Sport_Maroc_Tanzanie.jpg",
+      "title": "Maroc vs Tanzanie",
+      "catLabel": "Affiche match CAN"
+    },
+    {
+      "src": "images/Sport_Maroc_Mali.jpg",
+      "title": "Maroc vs Mali — Groupe A",
+      "catLabel": "Affiche match CAN"
+    },
+    {
+      "src": "images/Sport_NewYear_2025.jpg",
+      "title": "Happy New Year — Focus sur la Coupe",
+      "catLabel": "Affiche évènementielle"
+    },
+    {
+      "src": "images/Sport_Neymar.jpg",
+      "title": "Neymar Jr — Santos",
+      "catLabel": "Design sport joueur"
+    },
+    {
+      "src": "images/Sport_Hakimi_PapeGueye.jpg",
+      "title": "Hakimi & Pape Gueye — Do Laal",
+      "catLabel": "Design sport joueur"
+    },
+    {
+      "src": "images/Sport_Retour_Hakimi.jpg",
+      "title": "Achraf Hakimi — Le retour à la CAN",
+      "catLabel": "Design sport joueur"
+    },
+    {
+      "src": "images/Sport_SEN_Benin.jpg",
+      "title": "Sénégal vs Bénin — Tour 3 Groupe D",
+      "catLabel": "Affiche match CAN"
+    },
+    {
+      "src": "images/Sport_SEN_Congo.jpg",
+      "title": "Sénégal vs Congo — Groupe D",
+      "catLabel": "Affiche match CAN"
+    },
+    {
+      "src": "images/Sport_SEN_Egypte_DemiFinale.jpg",
+      "title": "Sénégal vs Égypte — Demi-finale",
+      "catLabel": "Affiche match CAN"
+    },
+    {
+      "src": "images/Sport_SEN_Soudan.jpg",
+      "title": "Sénégal vs Soudan — 1/8 de finale",
+      "catLabel": "Affiche match CAN"
+    },
+    {
+      "src": "images/Sport_SEN_GoGainde.jpg",
+      "title": "Sénégal — Go Gaïndé",
+      "catLabel": "Affiche équipe"
+    }
+  ]
+}

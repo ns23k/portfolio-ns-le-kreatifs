@@ -1,0 +1,50 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# Là où les images uploadées depuis l'admin sont stockées dans le repo
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+locale: "fr"
+
+collections:
+  - name: "portfolio"
+    label: "Portfolio principal"
+    files:
+      - name: "works"
+        label: "Réalisations (Affiches, Logos, Cartes, Mockups)"
+        file: "data/works.json"
+        fields:
+          - label: "Réalisations"
+            name: "items"
+            widget: "list"
+            summary: "{{title}} — {{cat}}"
+            fields:
+              - { label: "Image", name: "src", widget: "image" }
+              - { label: "Titre", name: "title", widget: "string" }
+              - label: "Catégorie"
+                name: "cat"
+                widget: "select"
+                options:
+                  - { label: "Affiche", value: "affiche" }
+                  - { label: "Logo", value: "logo" }
+                  - { label: "Carte de visite", value: "carte" }
+                  - { label: "Mockup", value: "mockup" }
+              - { label: "Libellé affiché (ex. « Affiche évènement »)", name: "catLabel", widget: "string" }
+
+  - name: "sport"
+    label: "Design Sport"
+    files:
+      - name: "sport"
+        label: "Réalisations Design Sport"
+        file: "data/sport.json"
+        fields:
+          - label: "Réalisations"
+            name: "items"
+            widget: "list"
+            summary: "{{title}}"
+            fields:
+              - { label: "Image", name: "src", widget: "image" }
+              - { label: "Titre", name: "title", widget: "string" }
+              - { label: "Libellé affiché (ex. « Affiche match CAN »)", name: "catLabel", widget: "string" }
