@@ -69,6 +69,36 @@
       "src": "images/Sport_SEN_GoGainde.jpg",
       "title": "Sénégal — Go Gaïndé",
       "catLabel": "Affiche équipe"
+    },
+    {
+      "src": "/images/uploads/match_6.jpg",
+      "catLabel": "z",
+      "title": "z"
+    },
+    {
+      "title": "z",
+      "catLabel": "f",
+      "src": "/images/uploads/score-demi-finale_2.psd.jpg"
+    },
+    {
+      "src": "/images/uploads/match_5.jpg_reporté.jpg",
+      "catLabel": "d",
+      "title": "de"
+    },
+    {
+      "catLabel": "g",
+      "src": "/images/uploads/game-day.jpg",
+      "title": "z"
+    },
+    {
+      "title": "Game day",
+      "catLabel": "gameday",
+      "src": "/images/uploads/game-day.jpg"
+    },
+    {
+      "src": "/images/uploads/game-day.jpg",
+      "title": "Game",
+      "catLabel": "Game"
     }
   ]
 }
