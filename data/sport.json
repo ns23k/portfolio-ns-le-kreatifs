@@ -84,21 +84,6 @@
       "src": "/images/uploads/match_5.jpg_reporté.jpg",
       "catLabel": "d",
       "title": "de"
-    },
-    {
-      "catLabel": "g",
-      "src": "/images/uploads/game-day.jpg",
-      "title": "z"
-    },
-    {
-      "title": "Game day",
-      "catLabel": "gameday",
-      "src": "/images/uploads/game-day.jpg"
-    },
-    {
-      "src": "/images/uploads/game-day.jpg",
-      "title": "Game",
-      "catLabel": "Game"
     }
   ]
 }
